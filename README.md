@@ -1,2 +1,2 @@
 # CuraEngine-GUI
-A gui project for calling CuraEngine
+## CuraEngine GUI is a project that calling CuraEngine to slice to generate g-code.
